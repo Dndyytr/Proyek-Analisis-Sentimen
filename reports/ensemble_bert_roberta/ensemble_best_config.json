@@ -1,0 +1,8 @@
+{
+    "model": "BERT + RoBERTa Ensemble",
+    "bert_weight": 0.5,
+    "roberta_weight": 0.5,
+    "threshold": 0.585,
+    "validation_accuracy": 0.8920454545454546,
+    "validation_macro_f1": 0.8701050950603164
+}

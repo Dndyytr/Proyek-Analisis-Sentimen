@@ -1,0 +1,4 @@
+scheme,algorithm,feature,C,class_weight,validation_accuracy,balanced_accuracy,macro_f1,weighted_f1
+S3_Hybrid_TFIDF_LogisticRegression,Logistic Regression,Word + Character TF-IDF,3.0,balanced,0.8484848484848485,0.8304998988059098,0.8248378589082224,0.8497037654733344
+S1_Word_TFIDF_LinearSVC,LinearSVC,Word TF-IDF (unigram + bigram),1.0,balanced,0.8409090909090909,0.8061121230520137,0.81033185083818,0.8397552327932075
+S2_Char_TFIDF_LinearSVC,LinearSVC,Character TF-IDF (3-5 gram),0.3,balanced,0.8314393939393939,0.8199251163732038,0.808426588393567,0.8340802076905545

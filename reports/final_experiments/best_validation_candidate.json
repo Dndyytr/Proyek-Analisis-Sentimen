@@ -1,0 +1,10 @@
+{
+    "model": "S3 Hybrid Logistic Regression",
+    "feature": "Word + Character TF-IDF",
+    "C": 3.0,
+    "class_weight": "balanced",
+    "threshold": 0.505,
+    "validation_accuracy": 0.8503787878787878,
+    "balanced_accuracy": 0.8301457194899817,
+    "macro_f1": 0.8261818939472862
+}

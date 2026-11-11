@@ -1,0 +1,6 @@
+{
+    "model": "Hybrid TF-IDF + Logistic Regression",
+    "selected_threshold": 0.505,
+    "validation_accuracy": 0.8503787878787878,
+    "validation_macro_f1": 0.8261818939472862
+}

@@ -1,0 +1,25 @@
+{
+    "model": "BERT + RoBERTa Ensemble",
+    "bert_weight": 0.5,
+    "roberta_weight": 0.5,
+    "threshold": 0.585,
+    "validation_accuracy": 0.8920454545454546,
+    "validation_macro_f1": 0.8701050950603164,
+    "test_samples": 528,
+    "test_accuracy": 0.8503787878787878,
+    "test_balanced_accuracy": 0.8139269213194104,
+    "test_macro_f1": 0.8199702194695613,
+    "test_weighted_f1": 0.8488373397105782,
+    "correct": 449,
+    "incorrect": 79,
+    "confusion_matrix": [
+        [
+            333,
+            34
+        ],
+        [
+            45,
+            116
+        ]
+    ]
+}
